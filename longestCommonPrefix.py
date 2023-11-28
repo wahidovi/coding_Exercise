@@ -23,4 +23,4 @@ def longest_common_prefix(strings):
 # Example usage:
 strings = ["flower", "flour", "flourish", "fly"]
 result = longest_common_prefix(strings)
-print(result)  # Output: "flo"
+print(result)  # Output: "fl"
